@@ -67,14 +67,12 @@
 - Built Python-based tools (Pandas, NumPy) for academic data analysis
 - Created interactive visualizations with Matplotlib & Plotly
 - Ensured accurate results with data cleaning & preprocessing  
-- *[Project repo coming soon]*
 
 ### Django Web Application
 *Personal Project (2024)*
 - Developed Django app with user authentication & responsive frontend
 - Optimized backend, reduced query response by 30%
 - Deployed for user testing & feedback  
-- *[Project repo coming soon]*
 
 ---
 
