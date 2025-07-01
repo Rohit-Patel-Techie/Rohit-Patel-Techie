@@ -30,9 +30,9 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++, HTML, CSS, JavaScript
+- **Languages:** Python, C++, HTML5, CSS3 , Tailwind CSS, JavaScript
 - **Frameworks/Libraries:** Django, NumPy, Pandas, Matplotlib, Plotly
-- **Web:** WordPress, Responsive Design, SEO Optimization
+- **Web:** WordPress, Shopify, Responsive Design, SEO Optimization
 - **Tools:** Git, VS Code, Jupyter Notebook
 - **Concepts:** Data Structures, Algorithms, Data Analysis, Data Exploration
 - **Soft Skills:** Problem Solving, Teamwork, Time Management, Attention to Detail
