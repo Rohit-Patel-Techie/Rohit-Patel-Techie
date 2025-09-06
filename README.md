@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Rohit Patel! 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> &nbsp;|&nbsp; Python Enthusiast &nbsp;|&nbsp; Data Explorer <br>
+  <b>Frontend Developer</b> &nbsp;|<b>Backend Developer</b> &nbsp;|&nbsp; Python Enthusiast &nbsp;|&nbsp; Data Explorer <br>
   <a href="mailto:rp380972@gmail.com">rp380972@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://github.com/Rohit-Patel-Techie">GitHub</a>
 </p>
