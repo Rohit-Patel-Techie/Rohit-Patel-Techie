@@ -42,13 +42,6 @@
 
 ## 💼 Experience
 
-### Web Developer (WordPress)
-**Bapugraphics, Delhi, India**  
-<sub>Jan 2025 – Present</sub>
-- Developed and maintained [bapugraphics.com](https://bapugraphics.com/), boosting engagement by 15%
-- Enhanced SEO performance, improving organic traffic by 20%
-- Customized themes/plugins with HTML, CSS, JavaScript
-- Maintained site reliability and 99.9% uptime
 
 ### Web Developer (WordPress)
 **Crazydogs, Delhi, India**  
